@@ -1,1 +1,2 @@
 File from foo branch
+Changes for second commit
